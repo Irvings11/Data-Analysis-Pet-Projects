@@ -35,7 +35,7 @@ The goal? To help the company reduce churn by understanding who’s at risk and 
 
 ## 📸 Example visualization
 
-Here’s a sample plot from the analysis — it shows churn rate by contract type (replace this with your actual plot if needed):
+Here’s a sample plot from the analysis — it shows Top 15 Important Signs of Churn:
 
 ![download](https://github.com/user-attachments/assets/4d04e820-f8ad-4681-a466-f541108cd262)
 
