@@ -14,7 +14,7 @@ This dataset contains official statistics on the number of marriages and divorce
 - period_date	Date (e.g., 31.12.2019)
 - period_name	Period name (e.g., 2019 year)
 - period_value	Number of registered marriages in the specified year
--🔹 Divorces
+🔹- Divorces
 - Column	Description
 - termNames/0	Region name
 - termNames/1	Area type (e.g., Total, Urban)
