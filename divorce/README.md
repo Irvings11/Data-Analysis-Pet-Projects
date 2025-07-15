@@ -6,7 +6,7 @@
 This dataset contains official statistics on the number of marriages and divorces across various regions of Kazakhstan, including both urban and rural areas. The data spans from 2009 to 2023 and was obtained from the official open data portal of the Republic of Kazakhstan.
 
 🗂 Data Structure
-🔹 Marriages
+-🔹 Marriages
 - Column	Description
 - termNames/0	Region name (e.g., Akmola Region)
 - termNames/1	Area type (Urban / Rural)
@@ -14,7 +14,7 @@ This dataset contains official statistics on the number of marriages and divorce
 - period_date	Date (e.g., 31.12.2019)
 - period_name	Period name (e.g., 2019 year)
 - period_value	Number of registered marriages in the specified year
-🔹- Divorces
+-🔹Divorces
 - Column	Description
 - termNames/0	Region name
 - termNames/1	Area type (e.g., Total, Urban)
