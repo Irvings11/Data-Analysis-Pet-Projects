@@ -7,13 +7,13 @@ This dataset contains official statistics on the number of marriages and divorce
 
 🗂 Data Structure
 🔹 Marriages
-Column	Description
-termNames/0	Region name (e.g., Akmola Region)
-termNames/1	Area type (Urban / Rural)
-period_index	Period index
-period_date	Date (e.g., 31.12.2019)
-period_name	Period name (e.g., 2019 year)
-period_value	Number of registered marriages in the specified year
+- Column	Description
+- termNames/0	Region name (e.g., Akmola Region)
+- termNames/1	Area type (Urban / Rural)
+- period_index	Period index
+- period_date	Date (e.g., 31.12.2019)
+- period_name	Period name (e.g., 2019 year)
+- period_value	Number of registered marriages in the specified year
 🔹 Divorces
 Column	Description
 termNames/0	Region name
