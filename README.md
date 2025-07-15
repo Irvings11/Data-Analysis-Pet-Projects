@@ -9,9 +9,7 @@ They include data cleaning, visualization, and simple insights.
 
 - Python (pandas, matplotlib, seaborn)
 - Jupyter / Colab
-- SQL (optional)
 - Selenium (for scraping)
-- Power BI (for dashboards)
 
 ---
 
@@ -20,8 +18,6 @@ They include data cleaning, visualization, and simple insights.
 - `Divorce_Marriage_KZ` – Marriage & divorce stats in Kazakhstan  
 - `KinoPoisk_2024` – Movie data scraped from KinoPoisk.ru  
 - `Global_Terrorism_DB` – Global terrorism data analysis  
-- `Sales_Report_Dashboard` – Power BI sales report
-
 ---
 
 ## 📎 Note
