@@ -23,8 +23,7 @@ This dataset contains official statistics on the number of marriages and divorce
 - periods/X/value	Number of divorces in the specified year
 
 💡Insights
-- We have found out that year that have most number of divorce is - 2019!,
-- and for the marriage, most number of marriage was in - 2013!
+- We have found out that year that have most number of divorce is - 2019!, and for the marriage, most number of marriage was in - 2013!
 <img width="1179" height="690" alt="download" src="https://github.com/user-attachments/assets/d7418bd0-bb36-4d23-80f9-c42bcf477cc0" />
 
 
