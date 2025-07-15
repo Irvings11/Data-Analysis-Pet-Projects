@@ -31,6 +31,8 @@ It includes key metadata such as title, country, genre, director, cast, audience
 | `Duration_min` | Movie duration in minutes                         |
 
 ---
+## 📈 Graphic Example:
+<img width="563" height="453" alt="download" src="https://github.com/user-attachments/assets/75b22676-3ba4-4de6-87dd-e5f57eaba884" />
 
 ## 📊 Sample Entries
 
@@ -44,19 +46,17 @@ Roles:       Деми Мур, Маргарет Куолли
 Rating:      6.5  
 Count:       428400  
 Duration:    141 мин
+```
 
 🔍 Key Insights
-🏆 Top-rated film: Анора — 7.4
-
-🎯 Most voted film: Субстанция — 428,400+ votes
-
-🧟‍♂️ Most common genre: Horror and Drama
-
-⏱️ Longest film: Субстанция — 141 minutes
+- 🏆 Top-rated film: Анора — 7.4
+- 🎯 Most voted film: Субстанция — 428,400+ votes
+- 🧟‍♂️ Most common genre: Horror and Drama
+- ⏱️ Longest film: Субстанция — 141 minutes
 
 📈 Potential Use Cases
-Recommender systems
-Genre popularity trends
-Runtime vs. rating analysis
-NLP on cast/director names
-Visualization dashboards
+- Recommender systems
+- Genre popularity trends
+- Runtime vs. rating analysis
+- NLP on cast/director names
+- Visualization dashboards
