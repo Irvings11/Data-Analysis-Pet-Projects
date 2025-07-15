@@ -22,6 +22,11 @@ periods/X/name	Year (e.g., 2023)
 periods/X/date	End-of-year date
 periods/X/value	Number of divorces in the specified year
 
+💡Insights
+We have found out that year that have most number of divorce is - ,
+and for the marriage, most number of marriage was in - .
+
+
 
 
 📅 Time Range
