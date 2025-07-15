@@ -1,6 +1,6 @@
-## Dataset Overview
+# Dataset Overview
 --- 
-# 🚗 Kolesa.kz Car Price Analysis
+## 🚗 Kolesa.kz Car Price Analysis
 
 This project is a review and analysis of data scraped from [Kolesa.kz](https://kolesa.kz), a popular car marketplace in Kazakhstan where users can buy and sell vehicles and auto parts.
 
