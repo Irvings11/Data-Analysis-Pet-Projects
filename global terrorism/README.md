@@ -1,7 +1,6 @@
 ## 📁 Dataset Overview: Global Terrorism
 
 This dataset provides a detailed record of global terrorist incidents from 1970 to recent years. Each row represents a single terrorist attack, with information on:
-I took this dataset from the https://www.start.umd.edu/data-tools/GTD website.
 
 - 📅 Date and location
 - 🧍 Number of perpetrators, killed and wounded
@@ -41,3 +40,6 @@ Mogadishu, Somalia 🇸🇴
 
 These cities were consistently among the most targeted locations, especially during periods of regional conflict and insurgency.
 <img width="989" height="790" alt="download" src="https://github.com/user-attachments/assets/bfbcb7e0-bab9-479e-a89a-8a91b73a1ee4" />
+
+### 📖 Source
+- I took this dataset from the https://www.start.umd.edu/data-tools/GTD website.
