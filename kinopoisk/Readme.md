@@ -9,7 +9,7 @@ It includes key metadata such as title, country, genre, director, cast, audience
 
 ## 🛠️ Data Collection
 
-- 📅 **Scraping Date**: [укажи дату]
+- 📅 **Scraping Date**: 05.12.2024
 - 🔧 **Tools Used**: Python + Selenium + pandas
 - 🌐 **Source**: [https://www.kinopoisk.ru/lists/movies/year--2024](https://www.kinopoisk.ru/lists/movies/year--2024)
 - ⚙️ **Automation**: Scrolling and dynamic content handling via `WebDriverWait`
