@@ -57,13 +57,9 @@ I applied both statistical and machine learning models to understand price trend
 - `scikit-learn` — for machine learning
 
 ---
-
-## 📎 Note
-
-This project is for **educational purposes only**. All data was collected from public listings.
-
-
----
 ### 📈 Graphic Example:
 <img width="1369" height="449" alt="image" src="https://github.com/user-attachments/assets/e616227e-2db5-4e44-95f4-ae3a44d1e3c6" />
 
+## 📎 Note
+
+This project is for **educational purposes only**. All data was collected from public listings
