@@ -1,10 +1,68 @@
 ## Dataset Overview
 --- 
 ### Kolesa.kz
-🚗 This is a review of the web scraping website Kolesa.kz, where people can sell and buy cars, various spare parts. Users can find out prices, brand, type, year, etc. And let's say I want to choose a car to buy, we look at prices, specifications, year, using web scraping, namely Beatifulsoup and the pandas library, we were able to extract all the data from the website and transfer it to a convenient table. 
-By cleaning the data, I was able to extract more than 1000 data, 952 rows and 16 columns. After careful data processing, I added special Python libraries for machine learning and more. Important libraries such as: Patsy, scikit-learn, statsmodel. For example, the result of the OLS regression showed R-squared is 0.595, which shows the coefficient of variation of prices is more than half. 
-Also I used scikit-learn library for linear regression to show how year and engine size interact with each other, and determine the price predictions, and the R-squared showed 0.63 coefficient, which shows a more satisfactory result. 
-Also with the same data, we used Logistic Regression, the accuracy is 79.6 percent, and the confusion matrix shows 119 and 33 are correct predictions for each class, 8 and 31 are incorrect predictions, so the model showed a good classification.
+# 🚗 Kolesa.kz Car Price Analysis
+
+This project is a review and analysis of data scraped from [Kolesa.kz](https://kolesa.kz), a popular car marketplace in Kazakhstan where users can buy and sell vehicles and auto parts.
+
+---
+
+## 🔍 What Was Done
+
+Using **BeautifulSoup** and **pandas**, I scraped data such as:
+
+- Car brand and model  
+- Year of production  
+- Engine size  
+- Price  
+- Location and more
+
+After cleaning and processing, the dataset contains:
+
+- ✅ **952 rows**  
+- ✅ **16 columns**
+
+---
+
+## 🧪 Analysis & Modeling
+
+I applied both statistical and machine learning models to understand price trends and make predictions:
+
+### 🔹 OLS Regression (statsmodels)
+
+- **R² = 0.595**
+- Shows that over **59%** of price variation can be explained by the model
+
+### 🔹 Linear Regression (scikit-learn)
+
+- Features: year, engine size  
+- **R² = 0.63** — better fit for prediction
+
+### 🔹 Logistic Regression (scikit-learn)
+
+- Used for price category classification  
+- **Accuracy: 79.6%**  
+- **Confusion Matrix**:
+  - True Positives: 119  
+  - True Negatives: 33  
+  - False Positives: 8  
+  - False Negatives: 31  
+
+---
+
+## 🛠 Libraries Used
+
+- `BeautifulSoup`, `requests` — for scraping  
+- `pandas`, `numpy` — for data handling  
+- `statsmodels`, `patsy` — for statistical modeling  
+- `scikit-learn` — for machine learning
+
+---
+
+## 📎 Note
+
+This project is for **educational purposes only**. All data was collected from public listings.
+
 
 ---
 ### 📈 Graphic Example:
